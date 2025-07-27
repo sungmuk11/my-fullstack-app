@@ -1,0 +1,10 @@
+@use "./reset.scss";
+
+.hi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
